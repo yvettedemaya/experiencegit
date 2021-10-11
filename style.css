@@ -3,4 +3,8 @@ body{
 }
 .a{
     color:blueviolet;
+        text-transform:lowercase;
+        text-decoration: brown;
+        font-size: x-large;
+    
 }
