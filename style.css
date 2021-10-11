@@ -2,9 +2,8 @@ body{
     background-color: aqua;
 }
 .a{
-    color:blueviolet;
-        text-transform:lowercase;
-        text-decoration: brown;
-        font-size: x-large;
-    
+    color:blue;
+    text-transform: capitalize;
+    text-decoration: chartreuse;
+    font-size: xx-large;
 }
