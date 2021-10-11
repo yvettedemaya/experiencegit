@@ -3,4 +3,7 @@ body{
 }
 .a{
     color:blue;
+    text-transform: capitalize;
+    text-decoration: chartreuse;
+    font-size: xx-large;
 }
